@@ -1,4 +1,4 @@
-<img width="2072" height="5092" alt="image" src="https://github.com/user-attachments/assets/518fce9d-894c-4269-8bf1-012a4dacf097" />## Hi there 👋
+## Hi there 👋
 
 My name is FengYue Tan, and I'm an undergraduate at Southern University of Science and Technology.
 - 🌱 I’m currently learning basic computer skills and knowledge.
