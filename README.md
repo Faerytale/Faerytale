@@ -2,7 +2,7 @@
 
 My name is FengYue Tan, and I'm an undergraduate at Southern University of Science and Technology.
 - 🌱 I’m currently learning basic computer skills and knowledge.
-- ⚡ Enthusiastic about soccer and video games.
+- ⚡ Enthusiastic about soccer and music.
 - 📫 How to reach me: 12410707@mail.sustech.edu.cn
 <!--
 **Faerytale/Faerytale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
